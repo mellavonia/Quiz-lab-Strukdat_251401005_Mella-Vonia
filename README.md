@@ -1,0 +1,1 @@
+# Quiz-lab-Strukdat_251401005_Mella-Vonia
