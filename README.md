@@ -19,12 +19,12 @@ Program ini mengelola data NIM dan nama mahasiswa dalam jumlah besar menggunakan
 
 **Struktur Folder Proyek**
 ```
-tugas-struktur-data/
+Quiz-lab-Strukdat_251401005_Mella-Vonia/
+├── README.md
 ├── no1_quiz.cpp
 ├── no2_quiz.cpp
 ├── no3_quiz.cpp
-├── no4_quiz.cpp
-└── README.md
+└── no4_quiz.cpp
 ```
 
 **Cara Menjalankan Program**
